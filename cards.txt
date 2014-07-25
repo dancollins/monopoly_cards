@@ -1,0 +1,53 @@
+\createcard{CHANCE}{You fail a paper at university. Pay \$100k and move back 6 spaces.}
+\createcard{CHANCE}{You eat a questionably looking butter chicken at the Hamilton night markets. Roll one die again: if you roll an odd number you fall sick and miss your next turn.}
+\createcard{CHANCE}{You purchase a mystery package from 1Day. Collect a free house to put on any property you own.}
+\createcard{CHANCE}{You purchase a mystery package from 1Day. Collect 10k.}
+\createcard{CHANCE}{You purchase a mystery item from 1Day. Move back 4 spaces.}
+\createcard{CHANCE}{You purchase a mystery item from 1Day. Collect \$1m.}
+\createcard{CHANCE}{You purchase a mystery item from 1Day. It’s cocaine… Go to jail.}
+\createcard{CHANCE}{You changed your Facebook birthday to protect yourself from identity theft. No one else knows this. Collect \$50k in birthday gifts from each player.}
+\createcard{CHANCE}{CONGRATULATIONS! One night stand ended badly and you’re now a parent. Half your go money as child support for the next five rounds must be paid.}
+\createcard{CHANCE}{You are awarded Sir Edmund Hilary Scholarship however your parents already paid your fees. Collect \$500k for “extra living costs”.}
+\createcard{CHANCE}{You get a part-time job! Say hello to the newest stripper at HushHush. Every player pays you all the \$10k notes they own as “tips” on your first night.}
+\createcard{CHANCE}{It’s the morning after your one night stand. Walk of shame to the nearest public transport.}
+\createcard{CHANCE}{It’s winter and none of your properties have any insulation. Pay \$50k per apartment and \$100k per hotel in extra power.}
+\createcard{CHANCE}{Guess who was snoozing in Monday morning’s lecture? Skip your next turn}
+\createcard{CHANCE}{You throw up in a taxi on your way home from town, pay \$100k for cleaning.}
+\createcard{CHANCE}{You have problems with StudyLink; they put you on hold. Skip your next turn.}
+\createcard{CHANCE}{Your WooHoo arrives, collect \$500k.}
+\createcard{CHANCE}{Buy a coffee from Momento, pay \$250k. It sucks. What a waste of \$250k.}
+\createcard{CHANCE}{Hamilton is boring so you midnight-mish to Auckland.  Advance to Pakuranga Lights and pay half the rent if owned.}
+\createcard{CHANCE}{All players park at your flat for Balloons over Waikato.  Collect \$10k from each player as a parking fee.}
+\createcard{CHANCE}{You spend \$500k in town during O week. Should have left the debit card at home.}
+\createcard{CHANCE}{You get discovered on Youtube and guest star on “Two kids at University”. Collect \$100k.}
+\createcard{CHANCE}{During cultural hour you decide to start playing Orcball.  You become obsessed and end up buying a realistic wooden shield. Pay \$300k.}
+\createcard{CHANCE}{You score a graduate internship at Fonterra. Collect \$250k as your first paycheck.}
+\createcard{CHANCE}{You win a hot lap with Greg Murphy.  Until you pass this square you must roll with three die.}
+\createcard{CHANCE}{You can’t afford petrol this week and have to walk. Until you pass this square again you must roll with one die.}
+\createcard{CHANCE}{Another earthquake hits Christchurch! Whoever owns buildings on Cathedral Square loses it.}
+\createcard{CHANCE}{You drop your iPhone and it breaks. Take it to Skinny for repair.}
+\createcard{CHANCE}{Lightwire have a stall at O Week and you befriend the workers there. They invite you to their after work drinks. Go to the Lightwire office to meet them.}
+\createcard{Community Chest}{It’s 99c week at Pak’n’Save so you decide to buy their establishment. Pay \$5m. On the plus side, you get free groceries. Forever!}
+\createcard{Community Chest}{Your flatmate ditches you, so you get their bond. Collect \$100k.}
+\createcard{Community Chest}{You’re caught dealing E on the dance floor in Bar 101. Go directly to jail. Do NOT pass Go.}
+\createcard{Community Chest}{Your party is raving but noise control gets called. All players were guests and feel guilty so they contribute \$50k each toward the fine.}
+\createcard{Community Chest}{You audition for X factor NZ and win with your spectacular rendition of the chicken dance. Collect \$2m.}
+\createcard{Community Chest}{It’s Re-O week and you get really drunk. For the next two turns odd numbers move you forward and even numbers move you backwards.}
+\createcard{Community Chest}{The Edge gives you tickets to the 7 Days Hamilton show, but you have an assignment due that night. Collect \$120k for selling them on Trade Me.}
+\createcard{Community Chest}{You decide cross the ditch and the NZ government forces you to pay back your entire student loan. Pay \$500k.}
+\createcard{Community Chest}{You invent Whittakers Marmite chocolate. Roll one die. If you roll a one, the product line was successful: Collect a profit of \$1m. Otherwise, pay your investment loan of \$3m back to ASB.}
+\createcard{Community Chest}{Join the Waikato Ski and Snowboarding Club and start snowboarding this winter! Move to Ohakune. If you pass go collect \$2m.}
+\createcard{Community Chest}{Your grandfather passed away leaving you with his estate. Place an apartment on the property of your choice. If you don’t own any property you’ll have to pass it on to someone else!}
+\createcard{Community Chest}{Buy the cheapest available property from the bank and gift it to the poorest (\$) player. If there are no properties left, buy a house for their cheapest property. If that doesn’t work they miss out!}
+\createcard{Community Chest}{You debate with Colin Craig about student allowance and get invited to join Waikato DebSoc. Collect \$50k.}
+\createcard{Community Chest}{Challenge a player to a \$1m bet. Roll a die. If it’s even you win!}
+\createcard{Community Chest}{You’re scammed with fake tickets to an OMC reunion concert. Pay \$50k.}
+\createcard{Community Chest}{Advance 10 spaces for no good reason.}
+\createcard{Community Chest}{You challenge Australia in a class action law suit for the rights to the pavlova and win. Collect \$5m in lost income.}
+\createcard{Community Chest}{You start feeding a stray cat that now keeps coming back.  Pay \$100k for pet food.}
+\createcard{Community Chest}{You decide to volunteer in an African Village over summer. Advance to go.}
+\createcard{Community Chest}{BLOCK PARTY: Owners on the street you’ve landed on must pay \$20k in damages per property owned.}
+\createcard{Community Chest}{You gift your flat a lounge heater. It catches fire. Pay each player \$250k of their bond back.}
+\createcard{Community Chest}{You convince your best friend to go out for cocktails. In an attempt to persuade her, you offer to pay for her cocktails. Pay \$100k.}
+\createcard{Community Chest}{You take a Negotiation and Persuasion paper and become a master. Trade a property of your choice with one that belongs to the player on your left.}
+\createcard{Community Chest}{You win a WSU comp to take the player on your left and right to Waitomo Caves. Only YOU have the choice to purchase it. If owned, all three pay rent.}

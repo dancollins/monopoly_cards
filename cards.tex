@@ -1,0 +1,56 @@
+
+\documentclass[parskip]{scrartcl}
+\usepackage[margin=15mm]{geometry}
+\usepackage{multicol}
+\usepackage{tikz}
+\usepackage{pifont}
+\usepackage{graphicx}
+
+\begin{document}
+
+\pgfmathsetmacro{\cardroundingradius}{4mm}
+\pgfmathsetmacro{\striproundingradius}{3mm}
+\pgfmathsetmacro{\cardwidth}{8}
+\pgfmathsetmacro{\cardheight}{5}
+\pgfmathsetmacro{\textpadding}{0.4}
+\pgfmathsetmacro{\contenttop}{5*\textpadding}
+
+\newcommand{\cardtype}[1]{
+  \node[text width=(\cardwidth-2*\textpadding)*1cm,below right,align=center] at (\textpadding,\cardheight-\textpadding)
+  {
+    {\LARGE \bfseries{#1}}
+  };
+}
+
+\newcommand{\cardcaption}[1]{
+  \node[text width=(\cardwidth-2*\textpadding)*1cm,below right,align=center] at (\textpadding,\cardheight-\contenttop)
+  {
+    {\large \cardcontent}
+  };
+}
+
+\newcommand{\createcard}[2]{
+  \begin{tikzpicture}
+    % Card shape
+    \draw[rounded corners=\cardroundingradius] (0,0) rectangle (\cardwidth, \cardheight);
+
+    % Card Type
+    \node[text width=(\cardwidth-2*\textpadding)*1cm,below right,align=center] at (\textpadding,\cardheight-\textpadding)
+    {
+           {\LARGE \bfseries{#1}}
+    };
+
+    % Caption
+    \node[text width=(\cardwidth-2*\textpadding)*1cm,below right,align=center] at (\textpadding,\cardheight-\contenttop)
+    {
+      {\large #2}
+    };
+  \end{tikzpicture}
+}
+
+\begin{multicols}{2}
+  \input{cards.txt}
+\end{multicols}
+
+\end{document}
+

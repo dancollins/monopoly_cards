@@ -1,0 +1,42 @@
+###
+### Boring Stuff
+###
+## emacs backups
+*~
+
+###
+### LaTeX
+###
+
+## Ignore some core TeX stuff
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+
+## Bibliography Intermediate Files
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+## Other Intermediate Files
+# algorithms
+*.alg
+*.loa
+
+# glossaries
+*.acn
+*.acr
+*.glg
+*.glo
+*.gls
+*.ist
+
+# hyperref
+*.brf
